@@ -9,11 +9,11 @@ Description: The main function in the vashr package is \code{\link{vash}}, which
     should be examined for more details. 
 License: GPL-3
 Depends:
-    ashr,
-    SQUAREM,
-    qvalue
+    ashr
 Suggests:
-    knitr
+    knitr,
+    qvalue,
+    SQUAREM
 biocViews: Software, GeneExpression, Bayesian, StatisticalMethod, 
     DifferentialExpression
 Packaged: 2016-6-10 20:44:42 UTC; mengyin
